@@ -1,5 +1,5 @@
 # Samriddh Kumar
-Vyapar Vistar (Private Organization) vyaparvistar.com
+Vyapar Vistar (Private Organization) 
 
   Role: Lead Developer 
 
